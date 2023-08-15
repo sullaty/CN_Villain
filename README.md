@@ -1,11 +1,14 @@
-# Villain
+# cn_Villain
 [![Python](https://img.shields.io/badge/Python-%E2%89%A5%203.6-yellow.svg)](https://www.python.org/) 
 <img src="https://img.shields.io/badge/PowerShell-%E2%89%A5%20v3.0-blue">
 <img src="https://img.shields.io/badge/Developed%20on-kali%20linux-blueviolet">
 [![License](https://img.shields.io/badge/License-CC%20Attr--NonCommercial%204.0-red)](https://github.com/t3l3machus/Villain/blob/main/LICENSE.md)
 <img src="https://img.shields.io/badge/Maintained%3F-Yes-96c40f">
 
+汉化自：https://github.com/t3l3machus/Villain/tree/main
+
 ## 目的
+
 Villain 是一个高级 C2 框架，可以处理多个 TCP 套接字和基于 HoaxShell 的反向 shell，通过附加功能（命令、实用工具等）增强其功能，并在连接的同级服务器之间共享它们（在不同机器上运行的 Villain 实例）之间的功能。
 
 该框架的主要特点包括：
@@ -29,9 +32,9 @@ Villain 是一个高级 C2 框架，可以处理多个 TCP 套接字和基于 Ho
 
 ## 预览
 
-![cn1](\img\cn1.png)
+![cn1](/img/cn1.png)
 
-![cn1](\img\cn2.png)
+![cn1](/img/cn2.png)
 
 ## 安装和使用
 Villain 已明确在 **kali linux** 上开发和测试。你可以使用 `apt` 安装它：
