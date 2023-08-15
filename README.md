@@ -29,9 +29,9 @@ Villain 是一个高级 C2 框架，可以处理多个 TCP 套接字和基于 Ho
 
 ## 预览
 
-![cn1](\img\cn1.png)
+![cn1](/img/cn1.png)
 
-![cn1](\img\cn2.png)
+![cn1](/img/cn2.png)
 
 ## 安装和使用
 Villain 已明确在 **kali linux** 上开发和测试。你可以使用 `apt` 安装它：
